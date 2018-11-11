@@ -1,4 +1,4 @@
-# CSS161
+# CSS162
 ## Projects from CSS 162 (Intro to Programming II) at UWB 
 
 ### Summary of Projects 
